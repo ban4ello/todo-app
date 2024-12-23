@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 2rem 0 2rem;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.todosApp {
+  display: flex;
+  flex-direction: column;
+  width: 480px;
+}
+
+.todosForm {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
